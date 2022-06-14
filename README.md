@@ -1,6 +1,6 @@
 # Portfolio
 
-## [Sales-Insights-Analysis-Using-Power-BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
+## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
 
 * Created a dashboard on Power BI to analyze the sales insight of a company. 
 * Imported the data from MySQL database, built the data model, performed data cleaning and transformation on Power Query Editor.
@@ -8,7 +8,7 @@
 
 ![](https://github.com/ritusantra/ritusantra-portfolio/blob/main/images/sales.png)
 
-## [Maven-Airline-Passenger-Satisfaction-Insights-Dashboard](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Insights-Dashboard-)
+## [Maven Airline Passenger Satisfaction Insights Dashboard](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Insights-Dashboard-)
 
 * Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. 
 * The satisfaction rating was 43.45%. 
@@ -18,7 +18,7 @@
 
 ![](https://github.com/ritusantra/ritusantra-portfolio/blob/main/images/flight.png)
 
-## [Analysis-of-Global-Unicorn-Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
+## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
 * Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
 *	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
 *	There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 
