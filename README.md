@@ -18,7 +18,7 @@
 * The dissatisfaction rate of the first-time passengers from economy class was higher. 
 * Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airline's satisfaction rate.
 
-![](/images/Maven%20Airline%20Passenger%20Satisfaction%20Insights-1.png)
+![](/images/MavenAirline.png)
 
 ## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
 
