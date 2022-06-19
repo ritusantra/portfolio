@@ -1,11 +1,5 @@
 ## Data Analytics Portfolio
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
 ## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
 <details>
   <summary> Details </summary>
