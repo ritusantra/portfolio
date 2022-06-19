@@ -7,6 +7,9 @@ This is how you dropdown.
 </details>
 
 ## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
+<details>
+  <summary> Details </summary>
+  <br>
 * Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
 *	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
 *	There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 
@@ -15,6 +18,7 @@ This is how you dropdown.
 *	Even though Bytedance is from Artificial Intelligence industry, FinTech industry is the top industry by valuation.
 *	47.77% of the companies are from E-commerce & direct-to-consumer industry.
 *	54.82% of the companies are from United States, majorly from San Francisco, New York City and Palo Alto. 30.52% of the companies are from San Francisco.
+</details>
 
 ![](/images/Unicorn_Dashboard_pdf-1.png)
 
