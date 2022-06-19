@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+## Data Analytics Portfolio
 
 ## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
 * Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
