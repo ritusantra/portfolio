@@ -16,7 +16,7 @@
   </ul>
 </details>
 
-![](/images/Unicorn_Dashboard_pdf-1.png)
+<img src="/images/Unicorn_Dashboard_pdf-1.png" alt="data">
 
 ## [Maven Airline Passenger Satisfaction Insights Dashboard](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Insights-Dashboard-)
 <details>
@@ -32,7 +32,7 @@
   </ul>
 </details>
 
-![](/images/MavenAirline.png)
+<img src="/images/MavenAirline.png" alt="data">
 
 ## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
 <details>
@@ -46,5 +46,4 @@
   </ul>
 </details>
 
-![](/images/Sales_Insights_Analysis_PowerBI_v2-1.png)
-
+<img src="/images/Sales_Insights_Analysis_PowerBI_v2-1" alt="data">
