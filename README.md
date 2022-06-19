@@ -1,5 +1,11 @@
 ## Data Analytics Portfolio
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 ## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
 * Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
 *	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
