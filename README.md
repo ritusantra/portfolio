@@ -10,14 +10,16 @@ This is how you dropdown.
 <details>
   <summary> Details </summary>
   <br>
-* Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
-*	Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
-*	There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 
-*	It takes about 7 years for a company to become Unicorn.
-*	Bytedance, Shein, SpaceX are the top three companies by valuation.
-*	Even though Bytedance is from Artificial Intelligence industry, FinTech industry is the top industry by valuation.
-*	47.77% of the companies are from E-commerce & direct-to-consumer industry.
-*	54.82% of the companies are from United States, majorly from San Francisco, New York City and Palo Alto. 30.52% of the companies are from San Francisco.
+  <ul>
+        <li> Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.</li>
+        <li> Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.</li>
+        <li> There are 1054 Unicorn companies and it was analysed that most of the founded companies became a Unicorn in the year 2021. 
+        <li> It takes about 7 years for a company to become Unicorn.</li>
+        <li> Bytedance, Shein, SpaceX are the top three companies by valuation.</li>
+        <li> Even though Bytedance is from Artificial Intelligence industry, FinTech industry is the top industry by valuation.</li>
+        <li> 47.77% of the companies are from E-commerce & direct-to-consumer industry.</li>
+        <li> 54.82% of the companies are from United States, majorly from San Francisco, New York City and Palo Alto. 30.52% of the companies are from San Francisco.</li>
+  </ul>
 </details>
 
 ![](/images/Unicorn_Dashboard_pdf-1.png)
