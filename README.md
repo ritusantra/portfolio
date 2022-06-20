@@ -1,6 +1,7 @@
 ## Data Analytics Portfolio
 
 ## [Analysis of Global Unicorn Companies](https://github.com/ritusantra/Analysis-of-Global-Unicorn-Companies)
+*Microsoft Power BI*
 
 * Created a dashboard on Power BI to analyze the current landscape of unicorn companies around the globe.
 * Data cleaning and data manipulation was done in order to handle missing data. The format of the data was changed for processing of the data.
@@ -14,6 +15,7 @@
 ![](/images/Unicorn_Dashboard_pdf-1.png)
 
 ## [Maven Airline Passenger Satisfaction Insights Dashboard](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Insights-Dashboard-)
+*Microsoft Power BI*
 
 * Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. 
 * The satisfaction rating was 43.45%. 
@@ -24,6 +26,7 @@
 ![](/images/MavenAirline.png)
 
 ## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
+*Microsoft Power BI, MySQL*
 
 * Created a dashboard on Power BI to analyze the sales insight of a company.
 * Imported the data from MySQL database, built the data model, performed data cleaning and transformation on Power Query Editor.
