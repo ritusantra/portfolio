@@ -1,10 +1,5 @@
 ## Data Analytics Portfolio
 
-<!--ts-->
-  * [Supply Chain Shipment Price Data Analysis](#SupplyChainShipmentPriceDataAnalysis)
-  * [Analysis of Global Unicorn Companies](#AnalysisofGlobalUnicornCompanies)
-<!--te-->
-
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
 *Python Libraries: Pandas, Seaborn, Matplotlib*
 
