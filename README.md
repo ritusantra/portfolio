@@ -1,8 +1,8 @@
 ## Data Analytics Portfolio
 
 <!--ts-->
-  * [Supply Chain Shipment Price Data Analysis](#Supply Chain Shipment Price Data Analysis)
-  * [Analysis of Global Unicorn Companies](#Analysis of Global Unicorn Companies)
+  * [Supply Chain Shipment Price Data Analysis](#SupplyChainShipmentPriceDataAnalysis)
+  * [Analysis of Global Unicorn Companies](#AnalysisofGlobalUnicornCompanies)
 <!--te-->
 
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
