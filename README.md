@@ -31,7 +31,7 @@
 
 ![](/images/Unicorn_Dashboard_pdf-1.png)
 
-## [Maven Airline Passenger Satisfaction Insights Analysis](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Insights-Analysis)
+## [Maven Airline Passenger Satisfaction Insights Analysis](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Analysis)
 *Microsoft Power BI*
 
 * Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. 
