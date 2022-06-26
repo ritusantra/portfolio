@@ -52,12 +52,19 @@ duplicate entries and changed the data format.
 ## [Maven Airline Passenger Satisfaction Insights Analysis](https://github.com/ritusantra/Maven-Airline-Passenger-Satisfaction-Analysis)
 *Microsoft Power BI*
 
-* Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. 
-* The satisfaction rating was 43.45%. 
-* The average ratings of the parameters were analyzed and it was found that: inflight Wi-Fi service, ease of booking and gate location had the worst ratings. 
-* The dissatisfaction rate of the first-time passengers from economy class was higher. 
-* Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airline's satisfaction rate.
-
+* Created a dashboard with visualizations to analyze satisfaction ratings of 129000+ airline passengers.
+* Analysed the parameters that decreased the satisfaction rating to 43.45%.
+<details>
+      <summary><b>Click Here To Read More</b></summary>
+      <br>
+      <ul>
+            <li>Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings.</li> 
+            <li>The satisfaction rating was 43.45%.</li> 
+            <li>The average ratings of the parameters were analyzed and it was found that: inflight Wi-Fi service, ease of booking and gate location had the worst ratings.</li> 
+            <li>The dissatisfaction rate of the first-time passengers from economy class was higher.</li>
+            <li>Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airline's satisfaction rate.</li>
+      </ul>
+</details>
 ![](/images/MavenAirline.png)
 
 ## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
