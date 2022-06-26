@@ -1,11 +1,5 @@
 ## Data Analytics Portfolio
 
-<details>
-<summary>How do I dropdown?</summary>
-<br>
-This is how you dropdown.
-</details>
-
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
 *Python Libraries: Pandas, Seaborn, Matplotlib*
 <details>
