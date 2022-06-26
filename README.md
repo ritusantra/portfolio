@@ -65,6 +65,7 @@ duplicate entries and changed the data format.
             <li>Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airline's satisfaction rate.</li>
       </ul>
 </details>
+
 ![](/images/MavenAirline.png)
 
 ## [Sales Insights Analysis Using Power BI](https://github.com/ritusantra/Sales-Insights-Analysis-Using-Power-BI)
