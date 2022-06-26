@@ -1,19 +1,30 @@
 ## Data Analytics Portfolio
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
+
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
 *Python Libraries: Pandas, Seaborn, Matplotlib*
-
-* Data cleaning and manipulation were done on 7000+ records of data.
-* Dropping columns, filtering data, changing datatypes and handling date columns were performed.
-* Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.
-* Total orders: 5572
-* Total orderlines: 6175
-* Total projects: 130
-* Total freight cost $68687760.27
-* Nigeria, Zambia and Côte d'Ivoire are the top 3 countries based on Freight Cost (USD).
-* Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).
-* Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.
-* Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
+<details>
+<summary>
+      * Data cleaning and manipulation were done on 7000+ records of data.
+      * Dropping columns, filtering data, changing datatypes and handling date columns were performed.
+      * Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.
+      * Total orders: 5572
+      * Total orderlines: 6175
+      * Total projects: 130
+      * Total freight cost $68687760.27
+      * Nigeria, Zambia and Côte d'Ivoire are the top 3 countries based on Freight Cost (USD).
+      * Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).
+      * Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.
+      * Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
+</summary>
+<br>
+  Read More
+</details>
 
 ![](/images/Shipment.png)
 
