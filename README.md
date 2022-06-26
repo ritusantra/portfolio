@@ -7,7 +7,7 @@ data types, handled date columns.
 * Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and
 manufacturing site.
 <details>
-<summary>Read More</summary>
+      <summary><b>Click Here To Read More</b></summary>
       <br>
           <ul>
            <li>Data cleaning and manipulation were done on 7000+ records of data.</li>
