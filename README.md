@@ -10,17 +10,19 @@ This is how you dropdown.
 *Python Libraries: Pandas, Seaborn, Matplotlib*
 <details>
 <summary>
-      * Data cleaning and manipulation were done on 7000+ records of data.
-      * Dropping columns, filtering data, changing datatypes and handling date columns were performed.
-      * Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.
-      * Total orders: 5572
-      * Total orderlines: 6175
-      * Total projects: 130
-      * Total freight cost $68687760.27
-      * Nigeria, Zambia and Côte d'Ivoire are the top 3 countries based on Freight Cost (USD).
-      * Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).
-      * Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.
-      * Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.
+      <ul>
+           <li>Data cleaning and manipulation were done on 7000+ records of data.</li>
+           <li>Dropping columns, filtering data, changing datatypes and handling date columns were performed.</li>
+           <li>Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.</li>
+           <li>Total orders: 5572</li>
+           <li>Total orderlines: 6175</li>
+           <li>Total projects: 130</li>
+           <li>Total freight cost $68687760.27</li>
+           <li>Nigeria, Zambia and Côte d'Ivoire are the top 3 countries based on Freight Cost (USD).</li>
+           <li>Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).</li>
+           <li>Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.</li>
+           <li>Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.</li>
+       </ul>
 </summary>
 <br>
   Read More
