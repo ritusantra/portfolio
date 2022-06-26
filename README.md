@@ -9,8 +9,9 @@ This is how you dropdown.
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
 *Python Libraries: Pandas, Seaborn, Matplotlib*
 <details>
-<summary>
-      <ul>
+<summary>Read More</summary>
+      <br>
+          <ul>
            <li>Data cleaning and manipulation were done on 7000+ records of data.</li>
            <li>Dropping columns, filtering data, changing datatypes and handling date columns were performed.</li>
            <li>Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and manufacturing site.</li>
@@ -22,10 +23,7 @@ This is how you dropdown.
            <li>Sierra Leone, Angola and Mali are the bottom 3 Countries based on Freight Cost (USD).</li>
            <li>Based on Shipment mode, the freight cost was maximum for Air, followed by Truck, Air Charter and Ocean.</li>
            <li>Top 3 Manufacturing Site by Freight Cost:Aurobindo Unit III, India, Mylan (formerly Matrix) Nashik and Hetero Unit III Hyderabad IN.</li>
-       </ul>
-</summary>
-<br>
-  Read More
+         </ul>
 </details>
 
 ![](/images/Shipment.png)
