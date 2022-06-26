@@ -2,6 +2,10 @@
 
 ## [Supply Chain Shipment Price Data Analysis](https://github.com/ritusantra/Supply-Chain-Shipment-Price-Data-Analysis)
 *Python Libraries: Pandas, Seaborn, Matplotlib*
+* Performed data cleaning and manipulation on 7000+ records of data - dropped columns, filtered data, changed
+data types, handled date columns.
+* Analysis and visualization were executed to present key insights on freight cost based on the country, shipment mode and
+manufacturing site.
 <details>
 <summary>Read More</summary>
       <br>
