@@ -31,7 +31,7 @@ manufacturing site.
 
 * Performed data cleaning and data manipulation of 1000+ records of data - handled missing data, removed the
 duplicate entries and changed the data format.
-* Created a dashboard with visualizations to present the key insights of the current landscape of the unicorn companie
+* Created a dashboard with visualizations to present the key insights of the current landscape of the unicorn companies.
 <details>
       <summary><b>Click Here To Read More</b></summary>
       <br>
